@@ -1,0 +1,56 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+} */
+
+.App{
+  padding-left: 15px;
+}
+
+.second{
+  float: right;
+  position: relative;
+  top: -142px;
+  right: 1200px;
+}
+
+.code{
+  font-family: 'Nanum Gothic Coding', monospace;
+}
+.Header {
+  background-color: palegoldenrod;
+  height: 200px;
+  padding: 20px;
+
+}
+.Header h1{
+  font-family: 'Lato', sans-serif;
+
+}
+
+.Header h4{
+  position: relative;
+  bottom: 20px;
+  right: 10px;
+  float: left;
+  padding: 10px;
+}
+
+hr{
+    width: 80%;
+}
+
+
+/* 
+.App-intro {
+  font-size: large;
+} */
+
+/* @keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
